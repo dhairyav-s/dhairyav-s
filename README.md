@@ -32,8 +32,4 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo-ar21.png"></code>
-	
-
-
 </p>
