@@ -8,7 +8,7 @@
 
 👨‍💻 I'm a graduate student in analytics with a focus in statistical modeling at Northeastern University Boston.  
 
-<img align="right" alt="img" src="" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/dhairyav-s/dhairyav-s/blob/main/IMG_0211.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Enhancing my technical skills along with business accumen 
