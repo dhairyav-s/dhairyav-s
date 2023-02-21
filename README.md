@@ -7,6 +7,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shah.dhair@northeastern.edu)
 
 👨‍💻 I'm a graduate student in analytics with a focus in statistical modeling at Northeastern University Boston.  
+- Highly skilled analytics professional with experience in data analysis, reporting, and visualization.
+-Strong technical skills in various programming languages such as Python and SQL.
+-Proficient in using business intelligence tools such as Tableau, MS Power BI, and Microsoft Office.
+-Experience in machine learning frameworks such as NumPy, Pandas, Scikit-Learn, and Tensorflow.
+-Completed several projects related to data analysis and machine learning using R and Python.
+-Strong leadership and communication skills with a self-managed, disciplined, and data-driven approach to growth.
+-Experience working with diverse teams to deliver actionable insights and business recommendations.
+-Passionate about data-driven decision making and constantly seeking new opportunities to learn and grow.
 
 <img align="right" alt="img" src="https://github.com/dhairyav-s/dhairyav-s/blob/main/IMG_0211.jpg" width="50%" height="auto" />
 
